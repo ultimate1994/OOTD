@@ -8,6 +8,17 @@ article {
     padding-left: 25px;
 }
 
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+li {
+    margin: 0px 0px 0px 6px;
+    float: left;
+}
+
 .grid {
     display: grid;
     grid-template-columns: 100px 1fr;
