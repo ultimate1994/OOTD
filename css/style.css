@@ -1,0 +1,28 @@
+.lnb ul {
+    list-style: none;
+}
+
+footer ul {
+    list-style: none;
+}
+
+.naver_mail {
+    background-size: 30px;
+    height: 30px;
+    width: 30px;
+    background-image: url("../image/icon/naver_mail.png");
+}
+
+.instagram {
+    background-size: 30px;
+    height: 30px;
+    width: 30px;
+    background-image: url("../image/icon/instagram.png");
+}
+
+.github {
+    background-size: 30px;
+    height: 30px;
+    width: 30px;
+    background-image: url("../image/icon/github.png");
+}

@@ -1,3 +1,13 @@
+header {
+    height: 608px;
+    background-image:url("../image/OOTD_header.jpg");
+}
+
+article {
+    padding-top: 15px;
+    padding-left: 25px;
+}
+
 .grid {
     display: grid;
     grid-template-columns: 100px 1fr;
